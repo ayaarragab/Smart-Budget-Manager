@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\core\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\domin\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\domin\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\core\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\domin\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\sagdafathy\\source\\repos\\fullcloudproject\\cloudproject\\domin\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:24:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\ReportService.cs",
+              "RelativeToolTip": "Core\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:31:09.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\ReportDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\ReportDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:30:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BudgetDto.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\BudgetDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\BudgetDto.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\BudgetDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\BudgetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:22:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Core\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:25:47.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:04:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Domin\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Models\\Transaction.cs",
+              "RelativeToolTip": "Domin\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:27:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Core\\Services\\TransactionService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:15:54.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\services\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\interfaces\\ibudgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ibudgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\migrations\\20250508052528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250508052528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\implements\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\implements\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\interfaces\\iuintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\iuintofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\interfaces\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C70FAB23-C252-40E3-A598-0F136F37B7B5}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\implements\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\implements\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\infrastructure\\implements\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F9EF-F801-4124-96D1-F2CAA62351FB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\implements\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\domin\\dtos\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5DE2FB-5DBB-42D8-9C91-8F9B600BC705}|Domin\\Domin.csproj|solutionrelative:domin\\dtos\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|c:\\users\\user\\desktop\\sara third\\cloudproject\\cloudproject\\core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F03930-4BEC-4B0B-B7F7-94F33877B99F}|Core\\Core.csproj|solutionrelative:core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\AuthRepository.cs",
+              "RelativeToolTip": "Core\\Services\\AuthRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:52:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:01:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:26:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BudgetsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\BudgetsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BudgetsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Controllers\\BudgetsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BudgetsController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwI4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:09:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:43:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:46:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBudgetService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\IBudgetService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IBudgetService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\IBudgetService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IBudgetService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:21:36.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:13:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250508052528_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Migrations\\20250508052528_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250508052528_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Migrations\\20250508052528_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250508052528_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:25:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:02:06.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Domin\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\Category.cs",
+              "RelativeToolTip": "Domin\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:02:25.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:36:27.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:25:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUintOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IUintOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IUintOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IUintOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IUintOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:50:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Implements\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Implements\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:51:48.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Implements\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Implements\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:09:31.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "Domin\\Models\\Budget.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\Budget.cs",
+              "RelativeToolTip": "Domin\\Models\\Budget.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:05:13.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IbudgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IbudgetRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IbudgetRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IbudgetRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IbudgetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:50:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IcategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IcategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IcategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Interfaces\\IcategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IcategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:08:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BudgetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\BudgetDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\BudgetDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\BudgetDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\BudgetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:10:29.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\BudgetService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\BudgetService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\BudgetService.cs",
+              "RelativeToolTip": "Core\\Services\\BudgetService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:45:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Core\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:05:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domin\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\Models\\User.cs",
+              "RelativeToolTip": "Domin\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:37:59.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Domin\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:49:41.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:39:02.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T17:55:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Api.http",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Api.http",
+              "RelativeDocumentMoniker": "Api\\Api.http",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Api\\Api.http",
+              "RelativeToolTip": "Api\\Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-08T00:44:57.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:59:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Services\\TokenService.cs",
+              "RelativeToolTip": "Core\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:54:09.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Implements\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Implements\\BaseRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:47:25.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BudgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\BudgetRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Implements\\BudgetRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Infrastructure\\Implements\\BudgetRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Implements\\BudgetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:09:18.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\Jwt.cs",
+              "RelativeDocumentMoniker": "Domin\\DTOs\\Jwt.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Domin\\DTOs\\Jwt.cs",
+              "RelativeToolTip": "Domin\\DTOs\\Jwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:00:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\sara third\\cloudProject\\cloudProject\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:52:56.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

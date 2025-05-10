@@ -1,0 +1,654 @@
+E:\S11RestApi\Api\bin\Debug\net8.0\appsettings.Development.json
+E:\S11RestApi\Api\bin\Debug\net8.0\appsettings.json
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.exe
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.deps.json
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Api.pdb
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\S11RestApi\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\S11RestApi\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.dll
+E:\S11RestApi\Api\obj\Debug\net8.0\refint\Api.dll
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.pdb
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+E:\S11RestApi\Api\obj\Debug\net8.0\ref\Api.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Azure.Core.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.ClientModel.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Domin.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Infrastructure.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Infrastructure.pdb
+E:\S11RestApi\Api\bin\Debug\net8.0\Domin.pdb
+E:\S11RestApi\Api\bin\Debug\net8.0\Humanizer.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Core.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Core.pdb
+E:\S11RestApi\Api\obj\Debug\net8.0\Api.sourcelink.json
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\S11RestApi\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.exe
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Core.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.pdb
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\user\Desktop\sara third\cloudProject\cloudProject\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.exe
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Core.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.pdb
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\user\Downloads\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.exe
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Core.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\bin\Debug\net8.0\Domin.pdb
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\sagdafathy\source\repos\fullcloudProject\cloudProject\Api\obj\Debug\net8.0\ref\Api.dll

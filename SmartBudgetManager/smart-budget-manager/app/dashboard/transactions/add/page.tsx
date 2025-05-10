@@ -28,43 +28,66 @@ export default function AddTransactionPage() {
     type: "Expense" as "Expense" | "Income",
     walletId: 0,
     categoryId: 0,
+    userId: "",
   })
 
   useEffect(() => {
     fetchWallets()
     fetchCategories()
+
+    // Get userId from localStorage and set it in the form data
+    const userId = localStorage.getItem("userId")
+    if (userId) {
+      setFormData((prev) => ({ ...prev, userId }))
+    }
   }, [])
 
   const fetchWallets = async () => {
-    try {
-      const response = await apiService.wallets.getAll()
-      // Check if response is an object with a data property
-      const walletsData = response && response.data ? response.data : response || []
-      setWallets(walletsData)
-
-      // Set default wallet if available
-      if (walletsData && walletsData.length > 0) {
-        setFormData((prev) => ({ ...prev, walletId: walletsData[0].id }))
-      }
-    } catch (error) {
-      console.error("Error fetching wallets:", error)
-      toast({
-        title: "Error",
-        description: "Failed to load wallets. Please try again.",
-        variant: "destructive",
-      })
-      setWallets([])
-    }
-  }
+  
+        setLoading(true)
+        setError("")
+        const userId = localStorage.getItem("userId")
+        // Fetch wallets
+          try {
+            const walletsResponse = await apiService.wallets.getAll()
+            let WalletData = []
+          console.log("Filtering Wallets for userId:",userId)
+            WalletData = walletsResponse.filter(
+            (Wallet) => Wallet.userId == userId || Wallet.userId == Number(userId),
+          )
+        console.log("Setting Wallets state with:", WalletData)
+        setWallets(WalletData || [])
+        } catch (err) {
+          console.warn("Could not load wallets:", err)
+          setWallets([])
+        }
+  
+}
 
   const fetchCategories = async () => {
     try {
-      const response = await apiService.categories.getAll()
-      setCategories(response.data || [])
-    } catch (error) {
-      console.warn("Error fetching categories:", error)
-      setCategories([])
-    }
+    setLoading(true)
+    const userId = localStorage.getItem("userId")
+    const response = await apiService.categories.getAll()
+
+
+    const StringUserId =`${userId}`
+    console.log(response?.data)
+
+    const filteredCategories = (response?.data || []).filter(
+      category => category.userId === StringUserId
+    )
+
+    setCategories(filteredCategories)
+  } catch (error) {
+    console.warn("Error fetching categories:", error)
+    toast({
+      title: "Warning",
+      description: "Failed to load categories. Using empty list.",
+      variant: "default",
+    })
+    setCategories([])
+  }
   }
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -88,6 +111,15 @@ export default function AddTransactionPage() {
       return
     }
 
+    if (!formData.userId) {
+      toast({
+        title: "Error",
+        description: "User ID is missing. Please log in again.",
+        variant: "destructive",
+      })
+      return
+    }
+
     try {
       setLoading(true)
 
@@ -98,6 +130,7 @@ export default function AddTransactionPage() {
         type: formData.type === "Income" ? 0 : 1, // Assuming TransactionType enum: Expense = 0, Income = 1
         walletId: Number.parseInt(formData.walletId as unknown as string),
         categoryId: formData.categoryId,
+        userId: formData.userId, // Include userId in the transaction data
       })
 
       toast({

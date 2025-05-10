@@ -31,6 +31,12 @@ namespace Infrastructure.Implements
 
         }
 
+        public async Task<IEnumerable<Transaction>> GetByUserId(string userId)
+        {
+            return await _context.Transactions
+                .Where(t => t.UserId == userId)
+                .ToListAsync();
+        }
 
 
     }

@@ -46,8 +46,16 @@ export default function TransactionsPage() {
     try {
       setLoading(true)
       const response = await apiService.transactions.getAll()
+      let transactionsData = []
       // Ensure transactions is always an array
-      const transactionsData = response && response.data ? response.data : response || []
+      const userId = localStorage.getItem("userId")
+        console.log("Filtering transactions for userId:", userId)
+        transactionsData = response.filter(
+          (transaction) => transaction.userId === userId || transaction.userId === Number(userId),
+        )
+      
+
+      console.log("Setting transactions state with:", transactionsData)
       setTransactions(transactionsData)
     } catch (error) {
       console.warn("Error fetching transactions:", error)
@@ -87,23 +95,23 @@ export default function TransactionsPage() {
     }
   }
 
-  const handleDeleteTransaction = async (id: number) => {
-    try {
-      await apiService.transactions.delete(id)
-      toast({
-        title: "Success",
-        description: "Transaction deleted successfully!",
-      })
-      fetchTransactions()
-    } catch (error) {
-      console.error("Error deleting transaction:", error)
-      toast({
-        title: "Error",
-        description: "Failed to delete transaction. Please try again.",
-        variant: "destructive",
-      })
-    }
-  }
+  // const handleDeleteTransaction = async (id: number) => {
+  //   try {
+  //     await apiService.transactions.delete(id)
+  //     toast({
+  //       title: "Success",
+  //       description: "Transaction deleted successfully!",
+  //     })
+  //     fetchTransactions()
+  //   } catch (error) {
+  //     console.error("Error deleting transaction:", error)
+  //     toast({
+  //       title: "Error",
+  //       description: "Failed to delete transaction. Please try again.",
+  //       variant: "destructive",
+  //     })
+  //   }
+  //}
 
   const getWalletName = (walletId: number) => {
     const wallet = wallets.find((w: any) => w.id === walletId)

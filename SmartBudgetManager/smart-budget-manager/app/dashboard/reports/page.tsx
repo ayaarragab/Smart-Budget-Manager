@@ -29,34 +29,57 @@ export default function ReportsPage() {
     try {
       setLoading(true)
 
-      // Fetch transactions
-      try {
-        const transactionsResponse = await apiService.transactions.getAll()
-        // Ensure transactions is always an array
-        const transactionsData =
-          transactionsResponse && transactionsResponse.data ? transactionsResponse.data : transactionsResponse || []
-        setTransactions(transactionsData)
-      } catch (err) {
-        console.warn("Could not load transactions:", err)
-        setTransactions([])
-      }
+      const userId = localStorage.getItem("userId")
+        // Fetch wallets
+          try {
+            const walletsResponse = await apiService.wallets.getAll()
+            let WalletData = []
+          console.log("Filtering Wallets for userId:",userId)
+            WalletData = walletsResponse.filter(
+            (Wallet) => Wallet.userId == userId || Wallet.userId == Number(userId),
+          )
+        console.log("Setting Wallets state with:", WalletData)
+        setWallets(WalletData || [])
+        } catch (err) {
+          console.warn("Could not load wallets:", err)
+          setWallets([])
+        }
 
-      // Fetch wallets
-      try {
-        const walletsResponse = await apiService.wallets.getAll()
-        const walletsData = walletsResponse && walletsResponse.data ? walletsResponse.data : walletsResponse || []
-        setWallets(walletsData)
-      } catch (err) {
-        console.warn("Could not load wallets:", err)
-        setWallets([])
-      }
+        // Fetch transactions
+        try {
+      setLoading(true)
+      const response = await apiService.transactions.getAll()
+      let transactionsData = []
+      // Ensure transactions is always an array
+      const userId = localStorage.getItem("userId")
+        console.log("Filtering transactions for userId:", userId)
+        transactionsData = response.filter(
+          (transaction) => transaction.userId === userId || transaction.userId === Number(userId),
+        )
+      
+
+      console.log("Setting transactions state with:", transactionsData)
+      setTransactions(transactionsData)
+          }catch (err) {
+          console.warn("Could not load transactions:", err)
+          setTransactions([])
+        }
 
       // Fetch categories
-      try {
-        const categoriesResponse = await apiService.categories.getAll()
-        const categoriesData =
-          categoriesResponse && categoriesResponse.data ? categoriesResponse.data : categoriesResponse || []
-        setCategories(categoriesData)
+        try {
+        setLoading(true)
+        const userId = localStorage.getItem("userId")
+        const response = await apiService.categories.getAll()
+
+
+        const StringUserId =`${userId}`
+        console.log(response?.data)
+
+        const filteredCategories = (response?.data || []).filter(
+          category => category.userId === StringUserId
+        )
+
+        setCategories(filteredCategories)
       } catch (err) {
         console.warn("Could not load categories:", err)
         setCategories([])
@@ -77,41 +100,17 @@ export default function ReportsPage() {
   }
 
   const getFilteredTransactions = () => {
-    const now = new Date()
-    let startDate
-
-    switch (timeRange) {
-      case "week":
-        startDate = new Date(now)
-        startDate.setDate(now.getDate() - 7)
-        break
-      case "month":
-        startDate = new Date(now)
-        startDate.setMonth(now.getMonth() - 1)
-        break
-      case "quarter":
-        startDate = new Date(now)
-        startDate.setMonth(now.getMonth() - 3)
-        break
-      case "year":
-        startDate = new Date(now)
-        startDate.setFullYear(now.getFullYear() - 1)
-        break
-      default:
-        startDate = new Date(now)
-        startDate.setMonth(now.getMonth() - 1)
-    }
-
+    
     return transactions.filter((transaction: any) => {
       const transactionDate = new Date(transaction.date)
-      const matchesDate = transactionDate >= startDate && transactionDate <= now
+     
       const matchesWallet = selectedWallet === "all" || transaction.walletId.toString() === selectedWallet
       const matchesCategory =
         selectedCategory === "all" ||
         (selectedCategory === "0" && (!transaction.categoryId || transaction.categoryId === 0)) ||
         transaction.categoryId?.toString() === selectedCategory
-
-      return matchesDate && matchesWallet && matchesCategory
+      
+      return  matchesWallet && matchesCategory
     })
   }
 
@@ -119,11 +118,14 @@ export default function ReportsPage() {
     const filteredTransactions = getFilteredTransactions()
 
     const income = filteredTransactions
-      .filter((transaction: any) => transaction.type === 0)
+      .filter((transaction: any) => 
+        transaction.type == 0
+    )
       .reduce((sum: number, transaction: any) => sum + transaction.amount, 0)
+      
 
     const expenses = filteredTransactions
-      .filter((transaction: any) => transaction.type === 1)
+      .filter((transaction: any) => transaction.type == 1)
       .reduce((sum: number, transaction: any) => sum + transaction.amount, 0)
 
     return {
@@ -205,20 +207,7 @@ export default function ReportsPage() {
         </div>
 
         <div className="flex flex-col md:flex-row gap-4">
-          <div className="flex items-center gap-2">
-            <Calendar className="h-4 w-4 text-muted-foreground" />
-            <Select value={timeRange} onValueChange={setTimeRange}>
-              <SelectTrigger className="w-[180px]">
-                <SelectValue placeholder="Time range" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="week">Last 7 days</SelectItem>
-                <SelectItem value="month">Last 30 days</SelectItem>
-                <SelectItem value="quarter">Last 3 months</SelectItem>
-                <SelectItem value="year">Last 12 months</SelectItem>
-              </SelectContent>
-            </Select>
-          </div>
+          
           <div className="flex items-center gap-2">
             <Select value={selectedWallet} onValueChange={setSelectedWallet}>
               <SelectTrigger className="w-[180px]">
@@ -241,7 +230,7 @@ export default function ReportsPage() {
               </SelectTrigger>
               <SelectContent>
                 <SelectItem value="all">All Categories</SelectItem>
-                <SelectItem value="0">Uncategorized</SelectItem>
+                
                 {categories.map((category: any) => (
                   <SelectItem key={category.id} value={category.id.toString()}>
                     {category.name}

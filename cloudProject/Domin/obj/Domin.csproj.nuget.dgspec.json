@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj": {}
+    "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj": {
+    "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj",
+        "projectUniqueName": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj",
         "projectName": "Domin",
-        "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj",
+        "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj",
         "packagesPath": "C:\\Users\\sagdafathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\obj\\",
+        "outputPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

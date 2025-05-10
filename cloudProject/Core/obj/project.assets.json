@@ -6419,11 +6419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\sagdafathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6445,11 +6445,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj": {
-              "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Domin\\Domin.csproj"
+            "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj": {
+              "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Domin\\Domin.csproj"
             },
-            "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\fullcloudProject\\cloudProject\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\sagdafathy\\source\\repos\\SmartBudgetManager\\cloudProject\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

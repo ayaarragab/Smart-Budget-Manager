@@ -47,8 +47,8 @@ namespace Core.Services
             }
             if (model.Type == TransactionType.Expense)
             {
-                if(wallet.Balance>=model.Amount)
-                wallet.Balance -= model.Amount; 
+                if (wallet.Balance >= model.Amount)
+                    wallet.Balance -= model.Amount;
                 else throw new Exception("Invalid transaction");
             }
             var transaction = new Transaction
@@ -57,8 +57,9 @@ namespace Core.Services
                 CategoryId = model.CategoryId,
                 Date = model.Date,
                 WalletId = model.WalletId,
-                Type=model.Type,
-                Description=model.Description,  
+                Type = model.Type,
+                Description = model.Description,
+                UserId = model.UserId,
             };
             await _unitOfWork.wallets.UpdateAsync(wallet);
             await _unitOfWork.transactions.AddAsync(transaction);
@@ -92,6 +93,12 @@ namespace Core.Services
             var transaction = await _unitOfWork.transactions.GetByDate(from, to);
 
             return transaction;
+        }
+
+        public async Task<IEnumerable<Transaction>> GetByUserIdAsync(string userId)
+        {
+            var transactions = await _unitOfWork.transactions.GetByUserId(userId);
+            return transactions;
         }
 
     }

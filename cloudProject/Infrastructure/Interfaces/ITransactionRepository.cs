@@ -11,5 +11,7 @@ namespace Infrastructure.Interfaces
     {
         public  Task<IEnumerable<Transaction>> GetByWalletId(int walletId);
         public Task<IEnumerable<Transaction>> GetByDate(DateTime from, DateTime to);
+
+        public Task<IEnumerable<Transaction>> GetByUserId(string userId);
     }
 }

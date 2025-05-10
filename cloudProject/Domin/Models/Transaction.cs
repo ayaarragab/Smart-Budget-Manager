@@ -21,6 +21,11 @@ public class Transaction
     public int WalletId { get; set; }
     [ForeignKey("WalletId")]
     public Wallet Wallet { get; set; } = default!;
+    public string? UserId { get; set; } = default!;
 
-    
+    [ForeignKey("UserId")]
+    [ValidateNever]
+    public User User { get; set; } = default!;
+
+
 }

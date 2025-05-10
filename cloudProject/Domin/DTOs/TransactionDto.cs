@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domin.DTOs
 {
-    public  class TransactionDto
+    public class TransactionDto
     {
         public decimal Amount { get; set; }
         public int CategoryId { get; set; }
@@ -15,5 +15,6 @@ namespace Domin.DTOs
         public int WalletId { get; set; }
         public TransactionType Type { get; set; }
         public string Description { get; set; }
+        public string UserId { get; set; }
     }
 }

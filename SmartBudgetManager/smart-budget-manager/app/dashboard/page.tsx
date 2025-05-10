@@ -57,12 +57,20 @@ export default function DashboardPage() {
 
         // Fetch transactions
         try {
-          const transactionsResponse = await apiService.transactions.getAll()
-          // Ensure transactions is always an array
-          const transactionsData =
-            transactionsResponse && transactionsResponse.data ? transactionsResponse.data : transactionsResponse || []
-          setTransactions(transactionsData)
-        } catch (err) {
+      setLoading(true)
+      const response = await apiService.transactions.getAll()
+      let transactionsData = []
+      // Ensure transactions is always an array
+      const userId = localStorage.getItem("userId")
+        console.log("Filtering transactions for userId:", userId)
+        transactionsData = response.filter(
+          (transaction) => transaction.userId === userId || transaction.userId === Number(userId),
+        )
+      
+
+      console.log("Setting transactions state with:", transactionsData)
+      setTransactions(transactionsData)
+          }catch (err) {
           console.warn("Could not load transactions:", err)
           setTransactions([])
         }

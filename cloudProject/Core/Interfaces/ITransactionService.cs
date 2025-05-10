@@ -18,6 +18,8 @@ namespace Core.Interfaces
         Task UpdateAsync(int id,TransactionDto model);
         Task DeleteAsync(int id);
         Task<IEnumerable<Transaction>> GetByDate(DateTime from, DateTime to);
+
+        Task<IEnumerable<Transaction>> GetByUserIdAsync(string userId);
     }
 
 }

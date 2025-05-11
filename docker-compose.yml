@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  frontend:
+    build:
+      context: ./SmartBudgetManager
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./cloudProject
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
